@@ -1,0 +1,11 @@
+Here is a lightweight simple plugin to dump a game's savedata key.
+I know that there are others like SGDeemer or FreeCheat but this one works in games where
+SGDeemer fails/crashes the game (like Duael Invaders), and it is much faster since it is only dumping the key,
+and with FreeCheat you need to go through a bunch of options to dump the key,
+just enable this plugin and it'll be ready to dump the key.
+
+Just run the game and load or save the game to dump the savedata key.
+
+The key is dumped to ms0:/PSP/GAME/SED/gamekey/(GAMEID).bin.
+
+Place the plugin in ms0:/seplugins/ and enable it in ms0:/seplugins/game.txt.

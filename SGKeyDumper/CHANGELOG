@@ -1,0 +1,25 @@
+v1.7:
+Now properly saves the game key on the PSP Go. (Omega2058)
+Added some new checks for when the main game module is loaded, no more hard coded delay times. (qwikrazor87)
+
+v1.6:
+Added support for PSP Go internal storage, defaults to the memory stick, if it's not available it saves to ef0:/.
+
+v1.5:
+Now dumps game key to ms0:/PSP/GAME/SED/gamekey/, thanks to eigthdayregret for the suggestion.
+Changed delay to 5 seconds.
+
+v1.4:
+15 second delay added by Omega2058
+
+v1.3:
+The plugin now waits until the system returns booted status, had yet more issues with certain games.
+
+v1.2:
+The plugin now waits until the first user module is loaded, still had issues starting some games, now fixed.
+
+v1.1:
+Added one more second to the delay at the start of the plugin, some games wouldn't start.
+
+v1:
+initial release
