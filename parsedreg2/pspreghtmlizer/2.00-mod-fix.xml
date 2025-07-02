@@ -1,0 +1,503 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xml" href="pspreghtmlizer.xsl"?>
+<registry format="psp">
+  <dir name="SYSPROFILE" check="pass">
+    <integer name="sound_reduction">0</integer>
+    <dir name="RESOLUTION" check="pass">
+      <integer name="horizontal">8210</integer>
+      <integer name="vertical">8210</integer>
+    </dir>
+  </dir>
+  <dir name="DATA" check="pass">
+    <dir name="FONT" check="pass">
+      <string name="path_name">flash0:/font</string>
+      <integer name="num_fonts">18</integer>
+      <dir name="PROPERTY" check="pass">
+        <dir name="INFO0" check="pass">
+          <integer name="h_size">648</integer>
+          <integer name="v_size">648</integer>
+          <integer name="h_resolution">8192</integer>
+          <integer name="v_resolution">8192</integer>
+          <integer name="extra_attributes">0</integer>
+          <integer name="weight">0</integer>
+          <integer name="family_code">1</integer>
+          <integer name="style">103</integer>
+          <integer name="sub_style">0</integer>
+          <integer name="language_code">1</integer>
+          <integer name="region_code">0</integer>
+          <integer name="country_code">1</integer>
+          <string name="font_name">FTT-NewRodin Pro DB</string>
+          <string name="file_name">jpn0.pgf</string>
+          <integer name="expire_date">0</integer>
+          <integer name="shadow_option">0</integer>
+        </dir>
+        <dir name="INFO1" check="pass">
+          <integer name="h_size">648</integer>
+          <integer name="v_size">648</integer>
+          <integer name="h_resolution">8192</integer>
+          <integer name="v_resolution">8192</integer>
+          <integer name="extra_attributes">0</integer>
+          <integer name="weight">0</integer>
+          <integer name="family_code">1</integer>
+          <integer name="style">1</integer>
+          <integer name="sub_style">0</integer>
+          <integer name="language_code">2</integer>
+          <integer name="region_code">0</integer>
+          <integer name="country_code">1</integer>
+          <string name="font_name">FTT-NewRodin Pro Latin</string>
+          <string name="file_name">ltn0.pgf</string>
+          <integer name="expire_date">0</integer>
+          <integer name="shadow_option">0</integer>
+        </dir>
+        <dir name="INFO2" check="pass">
+          <integer name="h_size">648</integer>
+          <integer name="v_size">648</integer>
+          <integer name="h_resolution">8192</integer>
+          <integer name="v_resolution">8192</integer>
+          <integer name="extra_attributes">0</integer>
+          <integer name="weight">0</integer>
+          <integer name="family_code">2</integer>
+          <integer name="style">1</integer>
+          <integer name="sub_style">0</integer>
+          <integer name="language_code">2</integer>
+          <integer name="region_code">0</integer>
+          <integer name="country_code">1</integer>
+          <string name="font_name">FTT-Matisse Pro Latin</string>
+          <string name="file_name">ltn1.pgf</string>
+          <integer name="expire_date">0</integer>
+          <integer name="shadow_option">0</integer>
+        </dir>
+        <dir name="INFO3" check="pass">
+          <integer name="h_size">648</integer>
+          <integer name="v_size">648</integer>
+          <integer name="h_resolution">8192</integer>
+          <integer name="v_resolution">8192</integer>
+          <integer name="extra_attributes">0</integer>
+          <integer name="weight">0</integer>
+          <integer name="family_code">1</integer>
+          <integer name="style">2</integer>
+          <integer name="sub_style">0</integer>
+          <integer name="language_code">2</integer>
+          <integer name="region_code">0</integer>
+          <integer name="country_code">1</integer>
+          <string name="font_name">FTT-NewRodin Pro Latin</string>
+          <string name="file_name">ltn2.pgf</string>
+          <integer name="expire_date">0</integer>
+          <integer name="shadow_option">0</integer>
+        </dir>
+        <dir name="INFO4" check="pass">
+          <integer name="h_size">648</integer>
+          <integer name="v_size">648</integer>
+          <integer name="h_resolution">8192</integer>
+          <integer name="v_resolution">8192</integer>
+          <integer name="extra_attributes">0</integer>
+          <integer name="weight">0</integer>
+          <integer name="family_code">2</integer>
+          <integer name="style">2</integer>
+          <integer name="sub_style">0</integer>
+          <integer name="language_code">2</integer>
+          <integer name="region_code">0</integer>
+          <integer name="country_code">1</integer>
+          <string name="font_name">FTT-Matisse Pro Latin</string>
+          <string name="file_name">ltn3.pgf</string>
+          <integer name="expire_date">0</integer>
+          <integer name="shadow_option">0</integer>
+        </dir>
+        <dir name="INFO5" check="pass">
+          <integer name="h_size">648</integer>
+          <integer name="v_size">648</integer>
+          <integer name="h_resolution">8192</integer>
+          <integer name="v_resolution">8192</integer>
+          <integer name="extra_attributes">0</integer>
+          <integer name="weight">0</integer>
+          <integer name="family_code">1</integer>
+          <integer name="style">5</integer>
+          <integer name="sub_style">0</integer>
+          <integer name="language_code">2</integer>
+          <integer name="region_code">0</integer>
+          <integer name="country_code">1</integer>
+          <string name="font_name">FTT-NewRodin Pro Latin</string>
+          <string name="file_name">ltn4.pgf</string>
+          <integer name="expire_date">0</integer>
+          <integer name="shadow_option">0</integer>
+        </dir>
+        <dir name="INFO6" check="pass">
+          <integer name="h_size">648</integer>
+          <integer name="v_size">648</integer>
+          <integer name="h_resolution">8192</integer>
+          <integer name="v_resolution">8192</integer>
+          <integer name="extra_attributes">0</integer>
+          <integer name="weight">0</integer>
+          <integer name="family_code">2</integer>
+          <integer name="style">5</integer>
+          <integer name="sub_style">0</integer>
+          <integer name="language_code">2</integer>
+          <integer name="region_code">0</integer>
+          <integer name="country_code">1</integer>
+          <string name="font_name">FTT-Matisse Pro Latin</string>
+          <string name="file_name">ltn5.pgf</string>
+          <integer name="expire_date">0</integer>
+          <integer name="shadow_option">0</integer>
+        </dir>
+        <dir name="INFO7" check="pass">
+          <integer name="h_size">648</integer>
+          <integer name="v_size">648</integer>
+          <integer name="h_resolution">8192</integer>
+          <integer name="v_resolution">8192</integer>
+          <integer name="extra_attributes">0</integer>
+          <integer name="weight">0</integer>
+          <integer name="family_code">1</integer>
+          <integer name="style">6</integer>
+          <integer name="sub_style">0</integer>
+          <integer name="language_code">2</integer>
+          <integer name="region_code">0</integer>
+          <integer name="country_code">1</integer>
+          <string name="font_name">FTT-NewRodin Pro Latin</string>
+          <string name="file_name">ltn6.pgf</string>
+          <integer name="expire_date">0</integer>
+          <integer name="shadow_option">0</integer>
+        </dir>
+        <dir name="INFO8" check="pass">
+          <integer name="h_size">648</integer>
+          <integer name="v_size">648</integer>
+          <integer name="h_resolution">8192</integer>
+          <integer name="v_resolution">8192</integer>
+          <integer name="extra_attributes">0</integer>
+          <integer name="weight">0</integer>
+          <integer name="family_code">2</integer>
+          <integer name="style">6</integer>
+          <integer name="sub_style">0</integer>
+          <integer name="language_code">2</integer>
+          <integer name="region_code">0</integer>
+          <integer name="country_code">1</integer>
+          <string name="font_name">FTT-Matisse Pro Latin</string>
+          <string name="file_name">ltn7.pgf</string>
+          <integer name="expire_date">0</integer>
+          <integer name="shadow_option">0</integer>
+        </dir>
+        <dir name="INFO9" check="pass">
+          <integer name="h_size">448</integer>
+          <integer name="v_size">448</integer>
+          <integer name="h_resolution">8192</integer>
+          <integer name="v_resolution">8192</integer>
+          <integer name="extra_attributes">0</integer>
+          <integer name="weight">0</integer>
+          <integer name="family_code">1</integer>
+          <integer name="style">1</integer>
+          <integer name="sub_style">0</integer>
+          <integer name="language_code">2</integer>
+          <integer name="region_code">0</integer>
+          <integer name="country_code">1</integer>
+          <string name="font_name">FTT-NewRodin Pro Latin</string>
+          <string name="file_name">ltn8.pgf</string>
+          <integer name="expire_date">0</integer>
+          <integer name="shadow_option">0</integer>
+        </dir>
+        <dir name="INFO10" check="pass">
+          <integer name="h_size">448</integer>
+          <integer name="v_size">448</integer>
+          <integer name="h_resolution">8192</integer>
+          <integer name="v_resolution">8192</integer>
+          <integer name="extra_attributes">0</integer>
+          <integer name="weight">0</integer>
+          <integer name="family_code">2</integer>
+          <integer name="style">1</integer>
+          <integer name="sub_style">0</integer>
+          <integer name="language_code">2</integer>
+          <integer name="region_code">0</integer>
+          <integer name="country_code">1</integer>
+          <string name="font_name">FTT-Matisse Pro Latin</string>
+          <string name="file_name">ltn9.pgf</string>
+          <integer name="expire_date">0</integer>
+          <integer name="shadow_option">0</integer>
+        </dir>
+        <dir name="INFO11" check="pass">
+          <integer name="h_size">448</integer>
+          <integer name="v_size">448</integer>
+          <integer name="h_resolution">8192</integer>
+          <integer name="v_resolution">8192</integer>
+          <integer name="extra_attributes">0</integer>
+          <integer name="weight">0</integer>
+          <integer name="family_code">1</integer>
+          <integer name="style">2</integer>
+          <integer name="sub_style">0</integer>
+          <integer name="language_code">2</integer>
+          <integer name="region_code">0</integer>
+          <integer name="country_code">1</integer>
+          <string name="font_name">FTT-NewRodin Pro Latin</string>
+          <string name="file_name">ltn10.pgf</string>
+          <integer name="expire_date">0</integer>
+          <integer name="shadow_option">0</integer>
+        </dir>
+        <dir name="INFO12" check="pass">
+          <integer name="h_size">448</integer>
+          <integer name="v_size">448</integer>
+          <integer name="h_resolution">8192</integer>
+          <integer name="v_resolution">8192</integer>
+          <integer name="extra_attributes">0</integer>
+          <integer name="weight">0</integer>
+          <integer name="family_code">2</integer>
+          <integer name="style">2</integer>
+          <integer name="sub_style">0</integer>
+          <integer name="language_code">2</integer>
+          <integer name="region_code">0</integer>
+          <integer name="country_code">1</integer>
+          <string name="font_name">FTT-Matisse Pro Latin</string>
+          <string name="file_name">ltn11.pgf</string>
+          <integer name="expire_date">0</integer>
+          <integer name="shadow_option">0</integer>
+        </dir>
+        <dir name="INFO13" check="pass">
+          <integer name="h_size">448</integer>
+          <integer name="v_size">448</integer>
+          <integer name="h_resolution">8192</integer>
+          <integer name="v_resolution">8192</integer>
+          <integer name="extra_attributes">0</integer>
+          <integer name="weight">0</integer>
+          <integer name="family_code">1</integer>
+          <integer name="style">5</integer>
+          <integer name="sub_style">0</integer>
+          <integer name="language_code">2</integer>
+          <integer name="region_code">0</integer>
+          <integer name="country_code">1</integer>
+          <string name="font_name">FTT-NewRodin Pro Latin</string>
+          <string name="file_name">ltn12.pgf</string>
+          <integer name="expire_date">0</integer>
+          <integer name="shadow_option">0</integer>
+        </dir>
+        <dir name="INFO15" check="pass">
+          <integer name="h_size">448</integer>
+          <integer name="v_size">448</integer>
+          <integer name="h_resolution">8192</integer>
+          <integer name="v_resolution">8192</integer>
+          <integer name="extra_attributes">0</integer>
+          <integer name="weight">0</integer>
+          <integer name="family_code">1</integer>
+          <integer name="style">6</integer>
+          <integer name="sub_style">0</integer>
+          <integer name="language_code">2</integer>
+          <integer name="region_code">0</integer>
+          <integer name="country_code">1</integer>
+          <string name="font_name">FTT-NewRodin Pro Latin</string>
+          <string name="file_name">ltn14.pgf</string>
+          <integer name="expire_date">0</integer>
+          <integer name="shadow_option">0</integer>
+        </dir>
+        <dir name="INFO16" check="pass">
+          <integer name="h_size">448</integer>
+          <integer name="v_size">448</integer>
+          <integer name="h_resolution">8192</integer>
+          <integer name="v_resolution">8192</integer>
+          <integer name="extra_attributes">0</integer>
+          <integer name="weight">0</integer>
+          <integer name="family_code">2</integer>
+          <integer name="style">6</integer>
+          <integer name="sub_style">0</integer>
+          <integer name="language_code">2</integer>
+          <integer name="region_code">0</integer>
+          <integer name="country_code">1</integer>
+          <string name="font_name">FTT-Matisse Pro Latin</string>
+          <string name="file_name">ltn15.pgf</string>
+          <integer name="expire_date">0</integer>
+          <integer name="shadow_option">0</integer>
+        </dir>
+        <dir name="INFO17" check="pass">
+          <integer name="h_size">648</integer>
+          <integer name="v_size">648</integer>
+          <integer name="h_resolution">8192</integer>
+          <integer name="v_resolution">8192</integer>
+          <integer name="extra_attributes">0</integer>
+          <integer name="weight">0</integer>
+          <integer name="family_code">1</integer>
+          <integer name="style">1</integer>
+          <integer name="sub_style">0</integer>
+          <integer name="language_code">3</integer>
+          <integer name="region_code">0</integer>
+          <integer name="country_code">3</integer>
+          <string name="font_name">AsiaNHH(512Johab)</string>
+          <string name="file_name">kr0.pgf</string>
+          <integer name="expire_date">0</integer>
+          <integer name="shadow_option">0</integer>
+        </dir>
+      </dir>
+    </dir>
+  </dir>
+  <dir name="INFO14" check="pass">
+    <integer name="h_size">448</integer>
+    <integer name="v_size">448</integer>
+    <integer name="h_resolution">8192</integer>
+    <integer name="v_resolution">8192</integer>
+    <integer name="extra_attributes">0</integer>
+    <integer name="weight">0</integer>
+    <integer name="family_code">2</integer>
+    <integer name="style">5</integer>
+    <integer name="sub_style">0</integer>
+    <integer name="language_code">2</integer>
+    <integer name="region_code">0</integer>
+    <integer name="country_code">1</integer>
+    <string name="font_name">FTT-Matisse Pro Latin</string>
+    <string name="file_name">ltn13.pgf</string>
+    <integer name="expire_date">0</integer>
+    <integer name="shadow_option">0</integer>
+  </dir>
+  <dir name="CONFIG" check="pass">
+    <dir name="VIDEO" check="pass">
+      <secret name="menu_language">en</secret>
+      <secret name="sound_language">00</secret>
+      <secret name="subtitle_language">en</secret>
+      <integer name="appended_volume">2</integer>
+    </dir>
+    <dir name="PHOTO" check="pass">
+      <integer name="slideshow_speed">1</integer>
+    </dir>
+    <dir name="SYSTEM" check="pass">
+      <string name="owner_name">Shirou </string>
+      <integer name="backlight_brightness">2</integer>
+      <dir name="XMB" check="pass">
+        <integer name="theme_type">0</integer>
+        <integer name="language">1</integer>
+        <integer name="button_assign">1</integer>
+        <dir name="THEME" check="pass">
+          <integer name="color_mode">1</integer>
+          <integer name="wallpaper_mode">1</integer>
+          <integer name="system_color">7</integer>
+        </dir>
+      </dir>
+      <dir name="SOUND" check="pass">
+        <integer name="main_volume">30</integer>
+        <integer name="mute">0</integer>
+        <integer name="avls">0</integer>
+        <integer name="equalizer_mode">3</integer>
+        <integer name="operation_sound_mode">0</integer>
+      </dir>
+      <dir name="POWER_SAVING" check="pass">
+        <integer name="suspend_interval">300</integer>
+        <integer name="backlight_off_interval">120</integer>
+        <integer name="wlan_mode">1</integer>
+      </dir>
+      <dir name="LOCK" check="pass">
+        <secret name="password">0000</secret>
+        <integer name="parental_level">0</integer>
+        <integer name="browser_start">1</integer>
+      </dir>
+      <dir name="CHARACTER_SET" check="pass">
+        <integer name="oem">1</integer>
+        <integer name="ansi">19</integer>
+      </dir>
+    </dir>
+    <dir name="DATE" check="pass">
+      <integer name="time_format">1</integer>
+      <integer name="date_format">1</integer>
+      <integer name="summer_time">1</integer>
+      <integer name="time_zone_offset">-360</integer>
+      <string name="time_zone_area">central_us_canada</string>
+    </dir>
+    <dir name="NETWORK" check="pass">
+      <dir name="ADHOC" check="pass">
+        <integer name="channel">0</integer>
+      </dir>
+      <dir name="INFRASTRUCTURE" check="pass">
+        <dir name="1" check="pass">
+          <integer name="version">2</integer>
+          <integer name="device">1</integer>
+          <string name="cnf_name">Connection 1</string>
+          <string name="ssid">ANTONE Space</string>
+          <integer name="auth_proto">0</integer>
+          <secret name="wep_key"></secret>
+          <integer name="how_to_set_ip">0</integer>
+          <string name="ip_address">0.0.0.0</string>
+          <string name="netmask">255.255.255.0</string>
+          <string name="default_route">0.0.0.0</string>
+          <integer name="dns_flag">0</integer>
+          <string name="primary_dns">0.0.0.0</string>
+          <string name="secondary_dns">0.0.0.0</string>
+          <string name="auth_name"></string>
+          <string name="auth_key"></string>
+          <integer name="http_proxy_flag">0</integer>
+          <string name="http_proxy_server"></string>
+          <integer name="http_proxy_port">8080</integer>
+          <integer name="auth_8021x_type">0</integer>
+          <string name="auth_8021x_auth_name"></string>
+          <string name="auth_8021x_auth_key"></string>
+          <integer name="wpa_key_type">1</integer>
+          <secret name="wpa_key"></secret>
+          <integer name="browser_flag">0</integer>
+        </dir>
+        <integer name="latest_id">1</integer>
+        <integer name="eap_md5">0</integer>
+        <integer name="auto_setting">0</integer>
+        <dir name="0" check="pass">
+          <integer name="version">2</integer>
+          <integer name="device">1</integer>
+          <string name="cnf_name"></string>
+          <string name="ssid"></string>
+          <integer name="auth_proto">0</integer>
+          <secret name="wep_key"></secret>
+          <integer name="how_to_set_ip">0</integer>
+          <string name="ip_address"></string>
+          <string name="netmask"></string>
+          <string name="default_route"></string>
+          <integer name="dns_flag">0</integer>
+          <string name="primary_dns"></string>
+          <string name="secondary_dns"></string>
+          <string name="auth_name"></string>
+          <string name="auth_key"></string>
+          <integer name="http_proxy_flag">0</integer>
+          <string name="http_proxy_server"></string>
+          <integer name="http_proxy_port">8080</integer>
+          <integer name="auth_8021x_type">0</integer>
+          <string name="auth_8021x_auth_name"></string>
+          <string name="auth_8021x_auth_key"></string>
+          <integer name="wpa_key_type">0</integer>
+          <secret name="wpa_key"></secret>
+          <integer name="browser_flag">0</integer>
+        </dir>
+      </dir>
+    </dir>
+    <dir name="BROWSER" check="pass">
+      <string name="home_uri"></string>
+      <integer name="cookie_mode">1</integer>
+      <integer name="proxy_mode">2</integer>
+      <string name="proxy_address"></string>
+      <integer name="proxy_port">0</integer>
+      <integer name="picture">1</integer>
+      <integer name="animation">1</integer>
+      <integer name="javascript">1</integer>
+      <integer name="cache_size">512</integer>
+      <integer name="char_size">1</integer>
+      <integer name="disp_mode">0</integer>
+    </dir>
+    <dir name="LFTV" check="pass">
+      <integer name="easy_reg_done">0</integer>
+      <string name="netav_domain_name"></string>
+      <string name="netav_ip_address">172.29.71.1</string>
+      <integer name="netav_port_no_home">5021</integer>
+      <integer name="netav_port_no_away">5021</integer>
+      <string name="netav_nonce"></string>
+      <string name="base_station_version">0.000</string>
+      <integer name="base_station_region">0</integer>
+      <integer name="tuner_type">0</integer>
+      <integer name="input_line">0</integer>
+      <integer name="tv_channel">0</integer>
+      <integer name="bitrate_home">0</integer>
+      <integer name="bitrate_away">0</integer>
+      <secret name="channel_setting_jp"></secret>
+      <secret name="channel_setting_us"></secret>
+      <secret name="channel_setting_us_catv"></secret>
+      <integer name="overwrite_netav_setting">1</integer>
+      <integer name="screen_mode">0</integer>
+      <integer name="remocon_setting_region">0</integer>
+      <secret name="remocon_setting"></secret>
+      <string name="remocon_setting_revision">0000.00</string>
+      <integer name="external_tuner_channel">0</integer>
+      <string name="ssid"></string>
+      <integer name="audio_gain">0</integer>
+    </dir>
+    <dir name="MUSIC" check="pass">
+      <integer name="wma_play">0</integer>
+    </dir>
+  </dir>
+  <dir name="REGISTRY" check="pass">
+    <integer name="category_version">20</integer>
+  </dir>
+</registry>

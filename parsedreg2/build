@@ -1,0 +1,2 @@
+gcc -oparsedreg2 -O2 parsedreg2.c sha1.c
+gcc -ofixupdreg2 -O2 fixupdreg2.c sha1.c
